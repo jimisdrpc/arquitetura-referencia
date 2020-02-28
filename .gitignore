@@ -1,0 +1,9 @@
+.metadata
+.mvn
+mvn*
+.settings
+.vscode
+target/*
+.classpath*
+.project*
+/HELP.md
